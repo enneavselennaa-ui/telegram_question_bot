@@ -10,7 +10,7 @@ import shutil
 from aiogram.exceptions import TelegramMigrateToChat
 
 # ================== НАСТРОЙКИ ==================
-BOT_TOKEN = "8573719664:AAF1FYleLXiKWxxz9MsP--cn5zGQ92ySefg"  # токен от BotFather
+BOT_TOKEN = "8573719664:AAHMqc8TgoVuXN8AZdB0VtSDvSqGtQpUNxY"  # токен от BotFather
 ADMIN_CHAT_ID = -1003752500482     # ID твоего канала
 DB_NAME = "questions.db"
 BACKUP_FOLDER = "backups"
